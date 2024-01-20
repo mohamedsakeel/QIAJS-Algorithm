@@ -16,7 +16,7 @@ QIAJS is a conceptual search algorithm that blends quantum-inspired principles, 
 
 **Installation:**
 
-1. Clone the repository: `git clone https://github.com/[your-username]/QIAJS.git`
+1. Clone the repository: `git clone https://github.com/mohamedsakeel/QIAJS.git`
 2. Install dependencies (listed in `requirements.txt`)
 
 **Code Examples:**
